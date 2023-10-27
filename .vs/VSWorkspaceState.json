@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\application",
+    "\\application\\config",
+    "\\application\\controllers",
+    "\\application\\models",
+    "\\application\\views"
+  ],
+  "SelectedNode": "\\application\\config\\user_agents.php",
+  "PreviewInSolutionExplorer": false
+}
